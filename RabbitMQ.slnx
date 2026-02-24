@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" />
+  <Project Path="RabbitMQ.Publisher/RabbitMQ.Publisher.csproj" />
+</Solution>
