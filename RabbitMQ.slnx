@@ -2,7 +2,9 @@
   <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" />
   <Project Path="RabbitMQ.Direct.Exchange.Consumer/RabbitMQ.Direct.Exchange.Consumer.csproj" Id="952d2b64-f3f8-497a-9d40-012ca17a94f3" />
   <Project Path="RabbitMQ.Direct.Exchange.Publisher/RabbitMQ.Direct.Exchange.Publisher.csproj" Id="57bed60d-80e1-4753-8e1c-a2a924335d59" />
-  <Project Path="RabbitMQ.Publisher/RabbitMQ.Publisher.csproj" />
   <Project Path="RabbitMQ.Fanout.Exchange.Consumer/RabbitMQ.Fanout.Exchange.Consumer.csproj" Id="c2a96ffe-2a7b-4ed6-854f-fd48ad022f19" />
   <Project Path="RabbitMQ.Fanout.Exchange.Publisher/RabbitMQ.Fanout.Exchange.Publisher.csproj" Id="d45dcd75-1e5c-4b34-a654-eee5b5be4308" />
+  <Project Path="RabbitMQ.Publisher/RabbitMQ.Publisher.csproj" />
+  <Project Path="RabbitMQ.Topic.Exchange.Consumer/RabbitMQ.Topic.Exchange.Consumer.csproj" Id="108678cb-3606-4c70-b7a5-575c0ce01262" />
+  <Project Path="RabbitMQ.Topic.Exchange.Publisher/RabbitMQ.Topic.Exchange.Publisher.csproj" Id="f9badf75-e705-4fc7-8086-9eb05b2de8ff" />
 </Solution>
