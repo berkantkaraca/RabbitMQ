@@ -1,20 +1,10 @@
 <Solution>
-  <Project Path="RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" />
-  <Project Path="RabbitMQ.Direct.Exchange.Consumer/RabbitMQ.Direct.Exchange.Consumer.csproj" Id="952d2b64-f3f8-497a-9d40-012ca17a94f3" />
-  <Project Path="RabbitMQ.Direct.Exchange.Publisher/RabbitMQ.Direct.Exchange.Publisher.csproj" Id="57bed60d-80e1-4753-8e1c-a2a924335d59" />
-  <Project Path="RabbitMQ.Fanout.Exchange.Consumer/RabbitMQ.Fanout.Exchange.Consumer.csproj" Id="c2a96ffe-2a7b-4ed6-854f-fd48ad022f19" />
-  <Project Path="RabbitMQ.Fanout.Exchange.Publisher/RabbitMQ.Fanout.Exchange.Publisher.csproj" Id="d45dcd75-1e5c-4b34-a654-eee5b5be4308" />
-  <Project Path="RabbitMQ.Header.Exchange.Consumer/RabbitMQ.Header.Exchange.Consumer.csproj" />
-  <Project Path="RabbitMQ.Header.Exchange.Publisher/RabbitMQ.Header.Exchange.Publisher.csproj" />
   <Project Path="RabbitMQ.P2P.Consumer/RabbitMQ.P2P.Consumer.csproj" Id="25482559-1ee9-4f53-8cfb-9fb999102488" />
   <Project Path="RabbitMQ.P2P.Publisher/RabbitMQ.P2P.Publisher.csproj" Id="7d3b6e6c-0038-4597-9968-b3e4a43075eb" />
-  <Project Path="RabbitMQ.Publisher/RabbitMQ.Publisher.csproj" />
   <Project Path="RabbitMQ.PublishSubscribe.Consumer/RabbitMQ.PublishSubscribe.Consumer.csproj" Id="7715ded7-7949-4553-97e1-774a0c473b2c" />
   <Project Path="RabbitMQ.PublishSubscribe.Publisher/RabbitMQ.PublishSubscribe.Publisher.csproj" Id="c0066cb8-bef8-48de-a40a-11f5ac50e576" />
   <Project Path="RabbitMQ.RequestResponse.Consumer/RabbitMQ.RequestResponse.Consumer.csproj" Id="8be513fd-96d3-49d5-aba8-20d8e9136ab5" />
   <Project Path="RabbitMQ.RequestResponse.Publisher/RabbitMQ.RequestResponse.Publisher.csproj" Id="d21467aa-d284-45f4-aabf-f570c4eaf48c" />
-  <Project Path="RabbitMQ.Topic.Exchange.Consumer/RabbitMQ.Topic.Exchange.Consumer.csproj" Id="108678cb-3606-4c70-b7a5-575c0ce01262" />
-  <Project Path="RabbitMQ.Topic.Exchange.Publisher/RabbitMQ.Topic.Exchange.Publisher.csproj" Id="f9badf75-e705-4fc7-8086-9eb05b2de8ff" />
   <Project Path="RabbitMQ.WorkQueue.Consumer/RabbitMQ.WorkQueue.Consumer.csproj" Id="fdf26d54-acf6-4a2a-ac8b-2e6fbea9d38f" />
   <Project Path="RabbitMQ.WorkQueue.Publisher/RabbitMQ.WorkQueue.Publisher.csproj" Id="ef4b7226-a5bf-4645-ad3e-c8c5502427d9" />
 </Solution>
