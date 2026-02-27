@@ -13,4 +13,6 @@
   <Project Path="RabbitMQ.PublishSubscribe.Publisher/RabbitMQ.PublishSubscribe.Publisher.csproj" Id="c0066cb8-bef8-48de-a40a-11f5ac50e576" />
   <Project Path="RabbitMQ.Topic.Exchange.Consumer/RabbitMQ.Topic.Exchange.Consumer.csproj" Id="108678cb-3606-4c70-b7a5-575c0ce01262" />
   <Project Path="RabbitMQ.Topic.Exchange.Publisher/RabbitMQ.Topic.Exchange.Publisher.csproj" Id="f9badf75-e705-4fc7-8086-9eb05b2de8ff" />
+  <Project Path="RabbitMQ.WorkQueue.Consumer/RabbitMQ.WorkQueue.Consumer.csproj" Id="fdf26d54-acf6-4a2a-ac8b-2e6fbea9d38f" />
+  <Project Path="RabbitMQ.WorkQueue.Publisher/RabbitMQ.WorkQueue.Publisher.csproj" Id="ef4b7226-a5bf-4645-ad3e-c8c5502427d9" />
 </Solution>
