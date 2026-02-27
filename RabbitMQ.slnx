@@ -9,6 +9,8 @@
   <Project Path="RabbitMQ.P2P.Consumer/RabbitMQ.P2P.Consumer.csproj" Id="25482559-1ee9-4f53-8cfb-9fb999102488" />
   <Project Path="RabbitMQ.P2P.Publisher/RabbitMQ.P2P.Publisher.csproj" Id="7d3b6e6c-0038-4597-9968-b3e4a43075eb" />
   <Project Path="RabbitMQ.Publisher/RabbitMQ.Publisher.csproj" />
+  <Project Path="RabbitMQ.PublishSubscribe.Consumer/RabbitMQ.PublishSubscribe.Consumer.csproj" Id="7715ded7-7949-4553-97e1-774a0c473b2c" />
+  <Project Path="RabbitMQ.PublishSubscribe.Publisher/RabbitMQ.PublishSubscribe.Publisher.csproj" Id="c0066cb8-bef8-48de-a40a-11f5ac50e576" />
   <Project Path="RabbitMQ.Topic.Exchange.Consumer/RabbitMQ.Topic.Exchange.Consumer.csproj" Id="108678cb-3606-4c70-b7a5-575c0ce01262" />
   <Project Path="RabbitMQ.Topic.Exchange.Publisher/RabbitMQ.Topic.Exchange.Publisher.csproj" Id="f9badf75-e705-4fc7-8086-9eb05b2de8ff" />
 </Solution>
