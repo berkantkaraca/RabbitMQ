@@ -17,4 +17,7 @@
   <Project Path="RabbitMQ.Topic.Exchange.Publisher/RabbitMQ.Topic.Exchange.Publisher.csproj" Id="f9badf75-e705-4fc7-8086-9eb05b2de8ff" />
   <Project Path="RabbitMQ.WorkQueue.Consumer/RabbitMQ.WorkQueue.Consumer.csproj" Id="fdf26d54-acf6-4a2a-ac8b-2e6fbea9d38f" />
   <Project Path="RabbitMQ.WorkQueue.Publisher/RabbitMQ.WorkQueue.Publisher.csproj" Id="ef4b7226-a5bf-4645-ad3e-c8c5502427d9" />
+  <Project Path="RabbitMQ.ESB.MassTransit.Consumer/RabbitMQ.ESB.MassTransit.Consumer.csproj" />
+  <Project Path="RabbitMQ.ESB.MassTransit.Publisher/RabbitMQ.ESB.MassTransit.Publisher.csproj" />
+  <Project Path="RabbitMQ.ESB.MassTransit.Shared/RabbitMQ.ESB.MassTransit.Shared.csproj" />
 </Solution>
