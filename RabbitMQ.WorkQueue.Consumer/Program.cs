@@ -22,7 +22,7 @@ EventingBasicConsumer consumer = new(channel);
 
 channel.BasicConsume(
     queue: queueName,
-    autoAck: true,
+    autoAck: true, // Her mesajın yalnızca bir consumer tarafından tüketilebilmesi için
     consumer: consumer
 );
 
